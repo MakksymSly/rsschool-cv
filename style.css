@@ -1,0 +1,57 @@
+body,
+html h1 {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+a {
+	color: #000;
+	font-weight: 700;
+	text-decoration: none;
+}
+body {
+	height: 100vh;
+}
+aside {
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 40%;
+	background: #333e50;
+}
+.face-image {
+	width: 150px;
+	height: 200px;
+	border-radius: 20px;
+}
+.container {
+	display: flex;
+	padding: 10px;
+	color: #e3e1e2;
+	width: 70%;
+	margin: 0 auto;
+	background: #0d1117;
+}
+
+.info-title {
+	width: 210px;
+	border-bottom: 2px solid white;
+}
+.info-details {
+	padding: 0 0 0 20px;
+}
+.adittional-info {
+	font-size: 16px;
+	padding: 20px;
+	width: 100%;
+	color: #000;
+	background: #fff;
+}
+.adittional-info-title {
+	border-bottom: 2px solid black;
+}
+.adittional-info-details {
+	padding: 0px;
+	margin: 0px;
+}
