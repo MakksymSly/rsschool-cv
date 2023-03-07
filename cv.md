@@ -47,5 +47,5 @@ function isPangram(string) {
 ### Languages:
 
 - English \-Advanced B2<br>
-- Russian \- Native
-- Ukrainian \- Fluent
+- Ukrainian \- Native
+- Russian \- Fluent
