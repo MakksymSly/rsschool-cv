@@ -1,1 +1,1 @@
- [# rsschool-cv](https://makksymsly.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://makksymsly.github.io/rsschool-cv/cv)
